@@ -1,8 +1,10 @@
 <h2>Prazer a todos, bem-vindos ao meu perfil/portifólio</h2>
 
-- Trabalho como desenvolvedor focado em Laravel e Angular
+- Trabalho como professor de Tecnologia e pratico desenvolvimento web nas horas vagas
 - Formado em Análise de Sistemas pela Unifai
-- Cursando Ciência de Dados pela FATEC Adamantina
+- Formado Ciência de Dados pela FATEC Adamantina
+- Pós Graduado em Análise de Dados pela Faculdade Anhanguera
+- Buscando mestrado...
 
 <div align="center">
   <a href="https://github.com/GuilhermeChuman">
