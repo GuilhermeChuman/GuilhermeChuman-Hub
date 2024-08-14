@@ -5,7 +5,7 @@
 - Formado Ciência de Dados pela FATEC Adamantina
 - Pós Graduado em Análise de Dados pela Faculdade Anhanguera
 - Buscando mestrado...
-
+teste
 <div align="center">
   <a href="https://github.com/GuilhermeChuman">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeChuman&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
